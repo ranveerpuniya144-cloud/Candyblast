@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="candy_bg">#1A0F33</color>
+    <color name="candy_icon_bg">#3B1F5C</color>
+    <style name="Theme.CandyBlast" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/candy_bg</item>
+        <item name="android:statusBarColor">@color/candy_bg</item>
+        <item name="android:navigationBarColor">@color/candy_bg</item>
+    </style>
+</resources>
